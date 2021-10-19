@@ -1,0 +1,44 @@
+README ASSIGNMENT 3
+
+1)
+    a. Shree Murthy
+	
+    b. 2374658
+	
+    c. shmurthy@chapman.edu
+	
+    d. CPSC 350-03
+	
+    e. Assignment 3
+
+2) Source Files:
+    1. AbstractGame.cpp
+    2. AbstractGame.h
+    3. ClassicMode.cpp
+    4. ClassicMode.h
+    5. DoughnutMode.cpp
+    6. DoughnutMode.h
+    7. main.cpp
+    8. Map.cpp
+    9. Map.h
+    10. MirrorMode.cpp
+    11. MirrorMode.h
+    12. Run.cpp
+    13. Run.h
+
+3) N/A Everything compiled and ran correctly
+
+4) Referred to the Makefile resource on Canvas and the Style Guide
+   Used the following links to understand certain methods: 
+        https://www.w3schools.com/cpp/cpp_files.asp 
+        https://www.cplusplus.com/reference/sstream/istringstream/istringstream/
+
+    Also, worked with Rahul Sura: we bounced ideas off of each other however we coded all the methods and implementations on our own
+
+
+        
+5) Steps:
+    
+	make 
+	
+    ./assignment3.out
