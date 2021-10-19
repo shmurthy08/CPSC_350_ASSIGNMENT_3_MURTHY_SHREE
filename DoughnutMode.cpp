@@ -42,7 +42,7 @@ DoughnutMode::DoughnutMode(unsigned int rows, unsigned int cols, double popDensi
     four = new Map(one->getRow(), one->getCol());
     bufferGrid = new Map(one->getRow() + 2, one->getCol() + 2);
     bufferedGrid(bufferGrid, one);
-    cout << bufferGrid->printMap() << endl;
+   
     //populate two, three and four with their respective maps
     createNextGen(one, two);
     createNextGen(two, three);

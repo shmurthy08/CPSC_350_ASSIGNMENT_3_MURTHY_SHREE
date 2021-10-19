@@ -42,12 +42,7 @@ MirrorMode::MirrorMode(unsigned int rows, unsigned int cols, double popDensity) 
     createNextGen(one, two);
     createNextGen(two, three);
     createNextGen(three, four);
-    cout << "TWO" << endl;
-    cout << two->printMap();
-    cout << "THREE" << endl;
-    cout << three->printMap();
-    cout << "FOUR" << endl;
-    cout << four->printMap();
+
 }
 
 /** Destructor
